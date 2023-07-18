@@ -9,3 +9,8 @@
 1.     Data from https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page 
 2.     A Python program that calculates the average trip length of all “Yellow Taxis“ for a parameterizable month.
 3.      A Data pipeline that can ingest new data and calculates the 45 day rolling average trip length.
+
+   # Data file to download:
+
+ 1. Yellow Taxi Trip Records (PARQUET) 2023, January.
+ 2. Place in the main directory.
